@@ -48,10 +48,10 @@ pip install -r requirements.txt
 
 - Step 3️⃣: Download Kaggle Dataset
 **🔹 Get Kaggle API Key (kaggle.json)**
-- Go to Kaggle and log in.
-- Click on your profile picture > Account.
-- Scroll down to the API section.
-- Click Create New API Token (A kaggle.json file will download).
+> Go to Kaggle and log in.
+> Click on your profile picture > Account.
+> Scroll down to the API section.
+> Click Create New API Token (A kaggle.json file will download).
 🔹 Upload kaggle.json to Google Colab
 ```
 from google.colab import files
