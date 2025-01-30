@@ -70,13 +70,7 @@ kaggle datasets download -d dataset-owner/deepfakeart -p /content/deepfakeart --
 
 **📜 Usage**
 - Train the Model
-```
-python train.py
-```
 - Test on Random Image Pairs
-```
-test_random_pairs.py
-```
 - Run on Google Colab
 - Upload and run the provided deepfakeart_colab.ipynb notebook.
 
